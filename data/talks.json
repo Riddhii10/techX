@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "image": "/images/talk1.png",
+      "date": "March 6, 2024",
+      "title": "Be a F5 Developer",
+      "author": "Ravi Lamkoti"
+    },
+    {
+      "id": 2,
+      "image": "/images/talk2.png",
+      "date": "March 6, 2024",
+      "title": "RAGs to Riches",
+      "author": "Vivek Singh"
+    },
+    {
+      "id": 3,
+      "image": "/images/talk3.png",
+      "date": "March 6, 2024",
+      "title": "It's all about PixelCraft",
+      "author": "Rutuja Patil"
+    },
+    {
+      "id": 4,
+      "image": "/images/talk7.png",
+      "date": "March 8, 2023",
+      "title": "Think big & scale smart",
+      "author": "Adwait Sharma"
+    },
+    {
+      "id": 5,
+      "image": "/images/talk6.png",
+      "date": "May 19, 2023",
+      "title": "The Yin & Yang of coding",
+      "author": "Kshteesh Gupta"
+    },
+    {
+      "id": 6,
+      "image": "/images/talk5.png",
+      "date": "May 19, 2023",
+      "title": "Generative AI: Risk & Opportunities",
+      "author": "Deepak Kharah"
+    },
+    {
+        "id": 7,
+        "image": "/images/talk4.png",
+        "date": "May 19, 2023",
+        "title": "Breaking Barriers: Building accessible web apps",
+        "author": "Shreekanth Suraboyina"
+      }
+  ]
+  
